@@ -1,1 +1,1 @@
-# Password-and-note-manager
+# Password-and-notes-manager
